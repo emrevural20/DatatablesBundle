@@ -1,5 +1,3 @@
-## This repo customized from original version. Onyl for personel usage.
-
 # SgDatatablesBundle
 
 [![knpbundles.com](http://knpbundles.com/stwe/DatatablesBundle/badge)](http://knpbundles.com/stwe/DatatablesBundle)
